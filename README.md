@@ -12,7 +12,7 @@ This notebook is a demonstrator of the NextGEOSS services. Therefor the **WPS is
 
 ## References
 
-* This notebook was referenced on Twitter during a NextGEOSS Summit: [https://twitter.com/gp3dr0/status/1007167024831836160](https://twitter.com/gp3dr0/status/1007167024831836160)
+* This notebook was referenced on [Twitter](https://twitter.com/gp3dr0/status/1007167024831836160)
 * [NextGEOSS](https://nextgeoss.eu/) website
 * [Food Security Pilot](https://nextgeoss.eu/pilots/food-security/)
 
